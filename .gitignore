@@ -1,0 +1,10 @@
+# Konfigurationsdateien mit API-Keys
+config.json
+
+# Lokale Datenbanken
+dashboard.db
+
+# Python Caches
+__pycache__/
+*.py[cod]
+.venv/
