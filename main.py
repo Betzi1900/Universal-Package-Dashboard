@@ -2,7 +2,6 @@ import tkinter as tk
 from tkinter import ttk, messagebox
 import traceback
 
-# Hier laden wir den neuen Router für die Open-Source-Architektur
 from tracker import UniversalTracker
 from database import Database
 
@@ -100,9 +99,6 @@ class LinuxDashboard:
         self.load_data()
 
 
-# ====================================================================
-# START-BLOCK (Komplett linksbündig!)
-# ====================================================================
 if __name__ == "__main__":
     try:
         root = tk.Tk()

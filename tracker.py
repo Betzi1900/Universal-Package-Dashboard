@@ -10,9 +10,7 @@ class UniversalTracker:
         # self.hermes = HermesTracker()
 
     def track_package(self, tracking_number, carrier):
-        """
-        Der Router: Leitet die Anfrage an die richtige API weiter.
-        """
+
         carrier = str(carrier).strip().upper()
 
         if carrier == "DHL":
