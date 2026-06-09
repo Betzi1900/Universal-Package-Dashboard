@@ -16,5 +16,7 @@ A clean, local Python dashboard to track all your packages in one place. Built w
 
 ### Installation & Running
 git clone https://github.com/Betzi1900/Universal-Package-Dashboard.git
+
 cd Universal-Package-Dashboard
+
 ./main.py
