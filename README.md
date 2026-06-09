@@ -12,6 +12,10 @@ A clean, local Python dashboard to track all your packages in one place. Built w
 
 ### Prerequisites
 * Python 3.x installed on your machine.
-* `requests` library:
-  ```bash
-  pip install requests
+* `pip` (Python package manager).
+
+### Installation & Running
+1. Clone the repository:
+   ```bash
+   git clone [https://github.com/Betzi1900/Universal-Package-Dashboard.git](https://github.com/Betzi1900/Universal-Package-Dashboard.git)
+   cd Universal-Package-Dashboard
